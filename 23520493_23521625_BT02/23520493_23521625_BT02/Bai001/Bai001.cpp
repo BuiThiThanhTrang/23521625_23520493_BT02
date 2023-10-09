@@ -1,5 +1,5 @@
 #include <iostream>
-using namespace std;
+using namespace std;//
 
 void Nhap(float &, float &);
 void Xuat(float, float);
